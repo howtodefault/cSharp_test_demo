@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lC0isBV1rzR3uzyIiD6ncVqRVY9LTSewNMiCB6oPuRtK4wxroXMZIPocL8zRFfCz17ilPpZJj5Lmg263AX6Qxw==",
+  "success": true,
+  "projectFilePath": "/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/test_xg_cSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/guoqingzou/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F25AC1F0-8F77-40FF-B334-AFC142BF45A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="TPNs.cs" Line="216" Column="11" />
+      <File FileName="With.cs" />
+      <File FileName="Program.cs" Line="417" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="test_xg_cSharp" expanded="True">
+            <Node name="test_xg_cSharp" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.test__xg__cSharp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

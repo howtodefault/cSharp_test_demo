@@ -1,0 +1,14 @@
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/test_xg_cSharp.deps.json
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/test_xg_cSharp.runtimeconfig.json
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/test_xg_cSharp.runtimeconfig.dev.json
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/test_xg_cSharp.dll
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/test_xg_cSharp.pdb
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.AssemblyInfoInputs.cache
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.AssemblyInfo.cs
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.csproj.CoreCompileInputs.cache
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.csproj.CopyComplete
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.dll
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.pdb
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.genruntimeconfig.cache
+/Users/guoqingzou/v_guoqzou/cSharp/test_xg_cSharp/test_xg_cSharp/obj/Debug/netcoreapp3.1/test_xg_cSharp.csprojAssemblyReference.cache

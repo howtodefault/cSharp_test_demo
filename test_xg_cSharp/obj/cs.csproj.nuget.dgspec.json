@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/cs.csproj": {}
+  },
+  "projects": {
+    "/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/cs.csproj",
+        "projectName": "cs",
+        "projectPath": "/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/cs.csproj",
+        "packagesPath": "/Users/guoqingzou/.nuget/packages/",
+        "outputPath": "/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/guoqingzou/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net3.1.403"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net3.1.403": {
+            "targetAlias": "net3.1.403",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net3.1.403": {
+          "targetAlias": "net3.1.403",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
